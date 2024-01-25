@@ -1,14 +1,18 @@
 # business_card
 
+![image](https://github.com/nayeemx11/Business_Card/assets/63298176/2dc4bfff-5264-4d18-8d01-173d82d04cc2)
+
+
+<!--
 echo "# Business_Card" >> README.md
 git init
 git add -A
 git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/nayeemx11/Business_Card.git
-git push -u origin main
+git push -u origin main -->
 
-A new Flutter project.
+A new Flutter project for Business Card show casing
 
 ## Getting Started
 
